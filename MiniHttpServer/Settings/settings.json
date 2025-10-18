@@ -1,0 +1,12 @@
+{
+  "SearcherUri": "Searcher",
+  "ChatGPTUri": "ChatGPT",
+  "OlaraUri": "Olara",
+  "LoginUri": "LoginForm",
+  "Domain": "localhost",
+  "Port": "1337",
+  "SmtpHost": "smtp.yandex.ru",
+  "SmtpPort": 587,
+  "SmtpEmail": "VDMizharev@yandex.ru",
+  "SmtpPassword": "hijeacxlsfkseavx"
+}
