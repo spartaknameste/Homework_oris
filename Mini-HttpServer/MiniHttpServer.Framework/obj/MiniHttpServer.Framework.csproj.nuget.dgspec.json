@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer.Framework\\MiniHttpServer.Framework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer.Framework\\MiniHttpServer.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer.Framework\\MiniHttpServer.Framework.csproj",
+        "projectName": "MiniHttpServer.Framework",
+        "projectPath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer.Framework\\MiniHttpServer.Framework.csproj",
+        "packagesPath": "C:\\Users\\origpid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\origpid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\MiniTemplateEngine.csproj": {
+                "projectPath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\MiniTemplateEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\MiniTemplateEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\MiniTemplateEngine.csproj",
+        "projectName": "MiniTemplateEngine",
+        "projectPath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\MiniTemplateEngine.csproj",
+        "packagesPath": "C:\\Users\\origpid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniTemplateEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\origpid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

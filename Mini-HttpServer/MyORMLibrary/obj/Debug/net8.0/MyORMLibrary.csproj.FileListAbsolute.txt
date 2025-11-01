@@ -1,0 +1,17 @@
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MiniTemplateEngine.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\bin\Debug\net8.0\MiniTemplateEngine.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLib.FCB61E28.Up2Date
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll

@@ -1,0 +1,1059 @@
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\user\source\repos\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\settings.json
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\404.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\about.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\all-game.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\animate.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\icofont.min.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\magnific-popup.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\nice-select.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\slick.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\style.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\vendor\bootstrap.min.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.otf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.eot
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.svg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff2
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\breadcrumbs-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-bg1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-update.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-banner-shape.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-bg1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-position-img.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-like-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-related-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sidebar-thumb.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sticky.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog7.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog8.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog9.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog_details_layer.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\comment2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\favicon.ico
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-left-icon.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\dribble.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\email.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\facebook-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\location.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\owl.video.play.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\phone.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\reply.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\scroll-top.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\twittre.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\youtobe-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon metro-list.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon open-grid-three-up.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\logo.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\404.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\about-thumb.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\breadcrumbs-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-signup.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\contact-form-bg-shape.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\counter-position-icon.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\dot-button.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-details-thumb.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\icon.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\menu_shape.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\paypal.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\player-bg-maskot.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg-fullwidth.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-thumb.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\text-mini-shape.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb10.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb7.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb8.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb9.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\video-play.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\details\player-details-img.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-1.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-2.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-3.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-4.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-5.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-6.webp
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\ajax-mail.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery-waypoints.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.counterup.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.magnific-popup.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.nice-select.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\mailchimp-ajax.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\main.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\slick.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\bootstrap.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-3.6.0.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-migrate-3.3.2.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\modernizr-3.7.1.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\popper.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\wow.min.js
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\mail.php
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-details.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-grid-style.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-list-style.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_about.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_blog.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_contact.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_faq.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_footer.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_game-details.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_header.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_match-details.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_other.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_payer-details.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_player-list.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\style.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_common.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_variabls.scss
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-details-left-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-details-right-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-details.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-grid-left-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-grid-right-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-grid-without-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-left-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-right-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\blog-without-sidebar.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\contact.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\faq.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\game-details.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\index.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\match-details.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\match.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\player-details.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\players.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\chatgpt.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\font\segoeuithibd.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\font\segoeuithis.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\font\segoeuithisi.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\font\segoeuithisz.ttf
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\index.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\Pictures\boy.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\ChatGPT\Pictures\chat.png
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\joke.png
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Olara\assets\css\login.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Olara\assets\img\circle.png
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Olara\assets\img\Illustration.png
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Olara\Login.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\ChatGPT.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\DeepSeek.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\GG.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\GitHub.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\In.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\Plus.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Common\YouTube.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\index.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Pictures\search-01.svg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\reset.css
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\searcher.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Small\ChatGPT.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Small\DeepSeek.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Small\GG.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Small\GitHub.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\Searcher\Small\YouTube.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Settings\settings.json
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\forget.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\image\bg.jpg
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\image\logo.png
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\index.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\register.html
+C:\Users\user\Desktop\Новая папка (5)\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\LoginForm\style.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\animate.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\icofont.min.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\magnific-popup.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\nice-select.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\slick.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\style.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\vendor\bootstrap.min.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.otf
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.ttf
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.eot
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.svg
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.ttf
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff2
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\breadcrumbs-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-bg1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-update.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-banner-shape.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-bg1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-position-img.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-like-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-related-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sidebar-thumb.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sticky.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog7.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog8.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog9.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog_details_layer.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\comment2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\favicon.ico
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-left-icon.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\dribble.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\email.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\facebook-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\location.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\owl.video.play.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\phone.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\reply.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\scroll-top.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\twittre.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\youtobe-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon metro-list.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon open-grid-three-up.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\logo.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\404.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\about-thumb.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\breadcrumbs-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-signup.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\contact-form-bg-shape.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\counter-position-icon.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\dot-button.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-details-thumb.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\icon.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\menu_shape.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\paypal.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\player-bg-maskot.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg-fullwidth.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-thumb.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\text-mini-shape.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb10.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb7.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb8.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb9.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\video-play.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\details\player-details-img.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-1.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-2.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-3.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-4.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-5.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-6.webp
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\ajax-mail.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery-waypoints.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.counterup.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.magnific-popup.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.nice-select.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\mailchimp-ajax.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\main.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\slick.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\bootstrap.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-3.6.0.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-migrate-3.3.2.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\modernizr-3.7.1.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\popper.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\wow.min.js
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\mail.php
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-details.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-grid-style.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-list-style.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_about.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_blog.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_contact.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_faq.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_footer.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_game-details.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_header.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_match-details.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_other.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_payer-details.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_player-list.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\style.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_common.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_variabls.scss
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\forget.html
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\bg.jpg
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\logo.png
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\register.html
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\style.css
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Settings\settings.json
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\timer\Downloads\Praktika2\Практика2\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\animate.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\icofont.min.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\magnific-popup.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\nice-select.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\slick.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\style.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\vendor\bootstrap.min.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.otf
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.ttf
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.eot
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.svg
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.ttf
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff2
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\breadcrumbs-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-bg1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-update.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-banner-shape.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-bg1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-position-img.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-like-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-related-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sidebar-thumb.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sticky.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog7.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog8.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog9.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog_details_layer.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\comment2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\favicon.ico
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-left-icon.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\dribble.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\email.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\facebook-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\location.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\owl.video.play.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\phone.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\reply.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\scroll-top.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\twittre.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\youtobe-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon metro-list.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon open-grid-three-up.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\logo.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\404.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\about-thumb.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\breadcrumbs-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-signup.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\contact-form-bg-shape.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\counter-position-icon.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\dot-button.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-details-thumb.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\icon.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\menu_shape.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\paypal.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\player-bg-maskot.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg-fullwidth.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-thumb.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\text-mini-shape.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb10.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb7.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb8.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb9.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\video-play.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\details\player-details-img.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-1.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-2.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-3.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-4.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-5.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-6.webp
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\ajax-mail.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery-waypoints.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.counterup.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.magnific-popup.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.nice-select.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\mailchimp-ajax.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\main.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\slick.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\bootstrap.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-3.6.0.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-migrate-3.3.2.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\modernizr-3.7.1.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\popper.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\wow.min.js
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\mail.php
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-details.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-grid-style.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-list-style.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_about.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_blog.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_contact.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_faq.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_footer.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_game-details.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_header.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_match-details.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_other.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_payer-details.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_player-list.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\style.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_common.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_variabls.scss
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\forget.html
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\bg.jpg
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\logo.png
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\register.html
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\style.css
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.AssemblyReference.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttp.E2E47DD5.Up2Date
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\settings.json
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.AssemblyReference.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\animate.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\icofont.min.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\magnific-popup.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\nice-select.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\slick.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\style.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\vendor\bootstrap.min.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.otf
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.ttf
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.eot
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.svg
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.ttf
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff2
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\breadcrumbs-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-update.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-banner-shape.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-position-img.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-like-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-related-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sidebar-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sticky.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog7.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog8.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog9.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog_details_layer.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\comment2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\favicon.ico
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-left-icon.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\dribble.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\email.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\facebook-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\location.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\owl.video.play.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\phone.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\reply.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\scroll-top.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\twittre.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\youtobe-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon metro-list.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon open-grid-three-up.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\logo.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\404.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\about-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\breadcrumbs-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-signup.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\contact-form-bg-shape.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\counter-position-icon.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\dot-button.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-details-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\icon.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\menu_shape.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\paypal.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\player-bg-maskot.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg-fullwidth.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\text-mini-shape.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb10.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb7.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb8.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb9.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\video-play.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\details\player-details-img.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-1.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-2.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-3.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-4.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-5.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-6.webp
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\ajax-mail.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery-waypoints.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.counterup.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.magnific-popup.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.nice-select.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\mailchimp-ajax.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\main.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\slick.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\bootstrap.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-3.6.0.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-migrate-3.3.2.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\modernizr-3.7.1.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\popper.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\wow.min.js
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\mail.php
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-details.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-grid-style.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-list-style.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_about.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_blog.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_contact.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_faq.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_footer.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_game-details.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_header.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_match-details.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_other.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_payer-details.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_player-list.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\style.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_common.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_variabls.scss
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\forget.html
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\bg.jpg
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\logo.png
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\register.html
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\style.css
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\settings.json
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Templates\Page\login.thtml
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniTemplateEngine.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniTemplateEngine.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttp.E2E47DD5.Up2Date
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.AssemblyReference.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\refint\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.exe
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\animate.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\icofont.min.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\magnific-popup.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\nice-select.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\slick.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\style.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\css\vendor\bootstrap.min.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.otf
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\Big Space.ttf
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.eot
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.svg
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.ttf
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\fonts\icofont.woff2
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\body-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\breadcrumbs-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\gaming-update.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-banner-shape.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\bg\hero-position-img.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-grid-6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-like-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-related-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sidebar-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog-sticky.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog7.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog8.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog9.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\blog_details_layer.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\comment2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\blog\post-comment3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\favicon.ico
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-icon2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\arrrow-left-icon.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\dribble.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\email.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\facebook-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\location.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-arrow2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\navigation-bg4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\owl.video.play.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\phone.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\reply.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\scroll-top.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\twittre.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\icon\youtobe-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon metro-list.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\Icon open-grid-three-up.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\logo\logo.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\404.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\about-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\breadcrumbs-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\btn-signup.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\contact-form-bg-shape.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\counter-position-icon.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\dot-button.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-details-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\game-vs3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world-bg3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\gaming-world3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\icon.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\menu_shape.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\meta-img3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\paypal.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\play-btn3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\player-bg-maskot.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\players6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\popular-game-thumb5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\tam-text-shape2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\team3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg-fullwidth.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-bg.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\testimonial-thumb.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\text-mini-shape.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb10.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb7.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb8.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\upcoming-game-thumb9.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\video-play.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\others\winners6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\details\player-details-img.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-1.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-2.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-3.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-4.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-5.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\img\player\list\player-6.webp
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\ajax-mail.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery-waypoints.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.counterup.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.magnific-popup.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\jquery.nice-select.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\mailchimp-ajax.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\main.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\slick.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\bootstrap.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-3.6.0.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\jquery-migrate-3.3.2.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\modernizr-3.7.1.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\vendor\popper.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\js\wow.min.js
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\mail.php
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-details.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-grid-style.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\blog\_blog-list-style.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_about.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_blog.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_contact.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_faq.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_footer.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_game-details.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_header.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_match-details.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_other.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_payer-details.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\section\_player-list.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\style.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_common.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\bonx\assets\scss\_variabls.scss
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\forget.html
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\bg.jpg
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\image\logo.png
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\index.html
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\register.html
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Public\style.css
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\settings.json
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Templates\Page\login.thtml
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.deps.json
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.runtimeconfig.json
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniTemplateEngine.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MiniTemplateEngine.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttp.E2E47DD5.Up2Date
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\obj\Debug\net9.0\ref\MiniHttpServer.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\Npgsql.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MyORMLibrary.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer\bin\Debug\net9.0\MyORMLibrary.pdb

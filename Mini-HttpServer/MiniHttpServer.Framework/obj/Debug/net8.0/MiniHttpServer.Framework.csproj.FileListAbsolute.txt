@@ -1,0 +1,15 @@
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.csproj.AssemblyReference.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.AssemblyInfoInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.AssemblyInfo.cs
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.csproj.CoreCompileInputs.cache
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net8.0\MiniHttpServer.Framework.deps.json
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net8.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net8.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net8.0\MiniTemplateEngine.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net8.0\MiniTemplateEngine.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttp.D7E1F248.Up2Date
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\refint\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-6\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net8.0\ref\MiniHttpServer.Framework.dll

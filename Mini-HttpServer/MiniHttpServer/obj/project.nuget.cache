@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xf4mh14DpP0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\origpid\\Desktop\\HomeWork-6\\Mini-HttpServer\\MiniHttpServer\\MiniHttpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\origpid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\origpid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\origpid\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\origpid\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

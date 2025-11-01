@@ -1,0 +1,22 @@
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.deps.json
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.AssemblyInfoInputs.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.AssemblyInfo.cs
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.csproj.CoreCompileInputs.cache
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\refint\MiniHttpServer.Framework.dll
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\timer\OneDrive\Рабочий стол\Удалить\Mini-HttpServer-409\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\ref\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.AssemblyInfoInputs.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.AssemblyInfo.cs
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.csproj.CoreCompileInputs.cache
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\refint\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.deps.json
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.dll
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\bin\Debug\net9.0\MiniHttpServer.Framework.pdb
+C:\Users\origpid\Desktop\HomeWork-5\Mini-HttpServer\MiniHttpServer.Framework\obj\Debug\net9.0\ref\MiniHttpServer.Framework.dll

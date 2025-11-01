@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniHttpServer", "MiniHttpServer\MiniHttpServer.csproj", "{16DF5DF5-5647-4F00-BEF1-49AB320C3069}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1A4A42F6-8960-471A-8991-1B7AEDC0930A} = {1A4A42F6-8960-471A-8991-1B7AEDC0930A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniHttpServer.Framework", "MiniHttpServer.Framework\MiniHttpServer.Framework.csproj", "{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}"
+	ProjectSection(ProjectDependencies) = postProject
+		{094BD6F6-8E18-4771-A82F-2988A8E86FA0} = {094BD6F6-8E18-4771-A82F-2988A8E86FA0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTemplateEngine", "MiniTemplateEngine\MiniTemplateEngine.csproj", "{094BD6F6-8E18-4771-A82F-2988A8E86FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTemplateEngineUnitTests", "MiniTemplateEngineUnitTests\MiniTemplateEngineUnitTests.csproj", "{36260FAF-E07E-4F13-B6AC-3DDF26FEEC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyORMLibrary", "MyORMLibrary\MyORMLibrary.csproj", "{1A4A42F6-8960-471A-8991-1B7AEDC0930A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781} = {1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DF5DF5-5647-4F00-BEF1-49AB320C3069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DF5DF5-5647-4F00-BEF1-49AB320C3069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DF5DF5-5647-4F00-BEF1-49AB320C3069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DF5DF5-5647-4F00-BEF1-49AB320C3069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA5B7BE-0A98-4691-8FA5-DD3FD5237781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094BD6F6-8E18-4771-A82F-2988A8E86FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094BD6F6-8E18-4771-A82F-2988A8E86FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094BD6F6-8E18-4771-A82F-2988A8E86FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094BD6F6-8E18-4771-A82F-2988A8E86FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36260FAF-E07E-4F13-B6AC-3DDF26FEEC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36260FAF-E07E-4F13-B6AC-3DDF26FEEC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36260FAF-E07E-4F13-B6AC-3DDF26FEEC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36260FAF-E07E-4F13-B6AC-3DDF26FEEC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4A42F6-8960-471A-8991-1B7AEDC0930A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4A42F6-8960-471A-8991-1B7AEDC0930A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4A42F6-8960-471A-8991-1B7AEDC0930A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4A42F6-8960-471A-8991-1B7AEDC0930A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06766B9-06F2-4696-86B5-F9A21AB29F2A}
+	EndGlobalSection
+EndGlobal
