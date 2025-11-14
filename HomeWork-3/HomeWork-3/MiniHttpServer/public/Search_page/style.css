@@ -1,0 +1,305 @@
+*, *::before, *::after { 
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    font-family: 'Afacad';
+}
+
+@media (max-width: 768px) {
+    body {
+        height: 852px;
+        width: 393px;
+        display: block;
+    }
+    
+    .forecast {
+        margin-top: 20px;
+        margin-left: 24px;
+        width: 345px;
+        height: 48px;
+        display: flex;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+    
+    .temp {
+        width: 31px;
+        height: 29px;
+        font-size: 22px;
+        font-weight: 700;
+        color: #212121;
+    }
+    
+    .city {
+        width: 68px;
+        height: 19px;
+        font-size: 14px;
+        font-weight: 700;
+        color: #6E6CDF;
+    }
+    
+    .centre_block {
+        display: block;
+        margin-top: 283.5px;
+        margin-left: 24px;
+        margin-bottom: 215.5px;
+        width: 345px;
+    }
+    
+    .dial {
+        width: 345px;
+        height: 104px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 215.5px;
+    }
+    
+    .hello {
+        width: 198px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 700;
+        color: #6E6CDF;
+    }
+    
+    .clock {
+        width: 182px;
+        height: 64px;
+        font-size: 48px;
+        font-weight: 700;
+        color: #212121;
+    }
+    
+    .search {
+        width: 345px;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+    
+    .search_line {
+        width: 100%;
+        height: 57px;
+        gap: 8px;
+        padding-top: 16px;
+        padding-left: 24px;
+        padding-bottom: 16px;
+        padding-right: 24px;
+        border: 1px solid #EEEEEE;
+        border-radius: 16px;
+        display: flex;
+        align-items: center;
+        background: #FAFAFA;
+    }
+    
+    .search_text {
+        width: 65px;
+        height: 25px;
+        font-weight: 400;
+        font-size: 18px;
+        letter-spacing: 0.2px;
+        line-height: 140%;
+        color: #9E9E9E;
+        font-family: 'Poppins';
+    }
+    
+    .search_icon {
+        width: 24px;
+        height: 24px;
+    }
+    
+    .search_icon svg{
+        width: 24px;
+        height: 24px;
+    }
+    
+    .icons {
+        width: 100%;
+        height: 48px;
+        margin: 0;
+        padding-left: 1.3%;
+        padding-right: 1.3%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 24px;
+        list-style: none;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+    
+    .icons::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .icon {
+        width: 48px;
+        height: 48px;
+        border-radius: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background-color: #FAFAFA;
+        border: 1px solid #EEEEEE;
+        flex-shrink: 0;
+    }
+    
+    .icon img {
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        display: block;
+    }
+    
+    .icons li:nth-child(6),
+    .icons li:nth-child(7) {
+        display: none;
+    }
+}
+
+@media (min-width: 769px) {
+    body {
+        height: 1117px;
+        width: 1728px;
+        background-color: #FFFFFF;
+        font-family: 'Afacad';
+    }
+    
+    .forecast {
+        margin-top: 35px;
+        margin-left: 35px;
+        margin-right: 35px;
+        width: 1658px;
+        height: 70px;
+        display: flex;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+    
+    .temp {
+        width: 44px;
+        height: 43px;
+        font-size: 32px;
+        font-weight: 700;
+        color: #212121;
+    }
+    
+    .city {
+        width: 98px;
+        height: 27px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #6E6CDF;
+    }
+    
+    .centre_block {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 55.65px;
+        margin-top: 360px;
+        margin-left: 6px;
+        width: 100%;
+    }
+    
+    .dial {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .hello {
+        width: 296px;
+        height: 48px;
+        font-size: 36px;
+        font-weight: 700;
+        color: #6E6CDF;
+    }
+    
+    .clock {
+        width: 281px;
+        height: 99px;
+        font-size: 74px;
+        color: #212121;
+        font-weight: 700;
+    }
+    
+    .search {
+        width: 622px;
+        gap: 55.65px;
+    }
+    
+    .search_line {
+        width: 622px;
+        display: flex;
+        align-items: center;
+        gap: 9.28px;
+        padding-top: 18.55px;
+        padding-left: 27.83px;
+        padding-bottom: 18.55px;
+        padding-right: 27.83px;
+        background: #FAFAFA;
+        border: 1.16px solid #EEEEEE;
+        border-radius: 18.55px;
+    }
+    
+    .search_text {
+        width: 72px;
+        height: 28px;
+        font-weight: 400;
+        font-size: 20px;
+        letter-spacing: 0.23px;
+        line-height: 140%;
+        color: #9E9E9E;
+        font-family: 'Poppins';
+    }
+    
+    .search_icon {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .icons {
+        margin-top: 55.65px;
+        padding: 0;
+        width: 622px;
+        height: 65px;
+        gap: 27.83px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+    }
+    
+    .icon {
+        width: 65px;
+        height: 65px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #FAFAFA;
+        border: 1.16px solid #EEEEEE;
+        border-radius: 18.57px;
+    }
+    
+    .icons li {
+        display: flex;
+    }
+}
