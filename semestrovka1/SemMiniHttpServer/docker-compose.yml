@@ -1,0 +1,41 @@
+services:
+  # --- База данных PostgreSQL ---
+  db:
+    image: postgres:17-alpine
+    container_name: tourbd-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: tourbd
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456789
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db.sql:/docker-entrypoint-initdb.d/01-init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d tourbd"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # --- Веб-приложение (турагентство) ---
+  web:
+    build:
+      context: ..               # корень repos\ (где лежат все 3 проекта рядом)
+      dockerfile: SemMiniHttpServer/Dockerfile
+    container_name: tour-web
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      SERVER_DOMAIN: "+"
+      CONNECTION_STRING: "Host=db;Port=5432;Database=tourbd;Username=postgres;Password=123456789"
+    depends_on:
+      db:
+        condition: service_healthy
+    stdin_open: true
+    tty: true
+
+volumes:
+  postgres_data:

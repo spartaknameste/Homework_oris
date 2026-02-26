@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="MailKit" Version="4.14.1" />
+		<PackageReference Include="Npgsql" Version="10.0.1" />
+		<PackageReference Include="System.Text.Json" Version="10.0.1" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\MiniTemplateEngine\MiniTemplateEngine.csproj" />
+		<ProjectReference Include="..\MyORMLibrary\MyORMLibrary.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Update="Public\**\*">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="settings.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+</Project>

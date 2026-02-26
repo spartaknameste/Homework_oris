@@ -1,0 +1,12 @@
+C:\Users\origpid\source\repos\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\origpid\source\repos\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\origpid\source\repos\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\origpid\source\repos\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll

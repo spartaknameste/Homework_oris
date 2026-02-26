@@ -1,0 +1,11 @@
+C:\Users\origpid\source\repos\MiniTemplateEngine\bin\Debug\net8.0\MiniTemplateEngine.deps.json
+C:\Users\origpid\source\repos\MiniTemplateEngine\bin\Debug\net8.0\MiniTemplateEngine.dll
+C:\Users\origpid\source\repos\MiniTemplateEngine\bin\Debug\net8.0\MiniTemplateEngine.pdb
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.AssemblyInfoInputs.cache
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.AssemblyInfo.cs
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.csproj.CoreCompileInputs.cache
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.dll
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\refint\MiniTemplateEngine.dll
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\MiniTemplateEngine.pdb
+C:\Users\origpid\source\repos\MiniTemplateEngine\obj\Debug\net8.0\ref\MiniTemplateEngine.dll

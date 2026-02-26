@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F59398-FAD8-43C5-80E4-80145C7C739B}|..\\MyORMLibrary\\MyORMLibrary.csproj|c:\\users\\origpid\\source\\repos\\myormlibrary\\querybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\endpoints\\adminendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:endpoints\\adminendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\httpresponse\\ihttpresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\httpresponse\\ihttpresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\abstracts\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\abstracts\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\httpresponse\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\httpresponse\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\attributes\\endpointattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\attributes\\endpointattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\core\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\core\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\framework\\settings\\jsonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:framework\\settings\\jsonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|c:\\users\\origpid\\source\\repos\\semminihttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43482F-5829-44BA-8A16-3DA2B92AEF2F}|SemMiniHttpServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\MyORMLibrary\\QueryBuilder.cs",
+              "RelativeDocumentMoniker": "..\\MyORMLibrary\\QueryBuilder.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\MyORMLibrary\\QueryBuilder.cs",
+              "RelativeToolTip": "..\\MyORMLibrary\\QueryBuilder.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAuwEABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:24:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\PageResult.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\HttpResponse\\PageResult.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\PageResult.cs",
+              "RelativeToolTip": "Framework\\Core\\HttpResponse\\PageResult.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:00:12.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndpointsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Handlers\\EndpointsHandler.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\Handlers\\EndpointsHandler.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Handlers\\EndpointsHandler.cs",
+              "RelativeToolTip": "Framework\\Core\\Handlers\\EndpointsHandler.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:00:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Abstracts\\Handler.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\Abstracts\\Handler.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Abstracts\\Handler.cs",
+              "RelativeToolTip": "Framework\\Core\\Abstracts\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:59:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "RelativeDocumentMoniker": "Endpoints\\AuthEndpoint.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "RelativeToolTip": "Endpoints\\AuthEndpoint.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:58:41.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Settings\\JsonEntity.cs",
+              "RelativeDocumentMoniker": "Framework\\Settings\\JsonEntity.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Settings\\JsonEntity.cs",
+              "RelativeToolTip": "Framework\\Settings\\JsonEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:58:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Endpoints\\AdminEndpoint.cs",
+              "RelativeDocumentMoniker": "Endpoints\\AdminEndpoint.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Endpoints\\AdminEndpoint.cs",
+              "RelativeToolTip": "Endpoints\\AdminEndpoint.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:57:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndpointAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Attributes\\EndpointAttribute.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\Attributes\\EndpointAttribute.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\Attributes\\EndpointAttribute.cs",
+              "RelativeToolTip": "Framework\\Core\\Attributes\\EndpointAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:57:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHttpResult.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\IHttpResult.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\HttpResponse\\IHttpResult.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\IHttpResult.cs",
+              "RelativeToolTip": "Framework\\Core\\HttpResponse\\IHttpResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:55:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonResult.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\JsonResult.cs",
+              "RelativeDocumentMoniker": "Framework\\Core\\HttpResponse\\JsonResult.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Framework\\Core\\HttpResponse\\JsonResult.cs",
+              "RelativeToolTip": "Framework\\Core\\HttpResponse\\JsonResult.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:55:45.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\origpid\\source\\repos\\SemMiniHttpServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:55:08.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
