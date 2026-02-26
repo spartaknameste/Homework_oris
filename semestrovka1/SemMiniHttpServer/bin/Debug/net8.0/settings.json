@@ -1,9 +1,0 @@
-{
-  "Domain": "localhost",
-  "Port": "8080",
-  "ConnectionString": "Host=localhost;Port=5432;Database=tourbd;Username=postgres;Password=123456789",
-  "SmtpHost": "smtp.yandex.ru",
-  "SmtpPort": 587,
-  "SmtpEmail": "VDMizharev@yandex.ru",
-  "SmtpPassword": "jadbvjfzstvlcizv"
-}
